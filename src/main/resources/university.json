@@ -1,43 +1,43 @@
 {
   "university": {
-    "university_name": "Tech University",
+    "university_name": "Tech University2",
     "department": [
       {
-        "department_name": "Computer Science",
+        "department_name": "Computer Science2",
         "course": [
           {
-            "course_name": "Data Structures",
+            "course_name": "Data Structures2",
             "student": [
               {
-                "student_name": "Alice",
-                "roll_no": "CS101"
+                "student_name": "Alice2",
+                "roll_no": "CS1012"
               },
               {
-                "student_name": "Bob",
-                "roll_no": "CS102"
+                "student_name": "Bob2",
+                "roll_no": "CS1022"
               }
             ]
           },
           {
-            "course_name": "Algorithms",
+            "course_name": "Algorithms2",
             "student": [
               {
-                "student_name": "Charlie",
-                "roll_no": "CS201"
+                "student_name": "Charlie2",
+                "roll_no": "CS2012"
               }
             ]
           }
         ]
       },
       {
-        "department_name": "Mechanical Engineering",
+        "department_name": "Mechanical Engineering2",
         "course": [
           {
-            "course_name": "Thermodynamics",
+            "course_name": "Thermodynamics2",
             "student": [
               {
-                "student_name": "David",
-                "roll_no": "ME101"
+                "student_name": "David2",
+                "roll_no": "ME1012"
               }
             ]
           }

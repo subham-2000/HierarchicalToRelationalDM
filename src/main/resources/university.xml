@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<university university_name="Tech University">
-  <department department_name="Computer Science">
-  <course course_name="Data Structures">
-  <student student_name="Alice" roll_no="CS101">
+<university university_name="Tech University2">
+  <department department_name="Computer Science2">
+  <course course_name="Data Structures2">
+  <student student_name="Alice2" roll_no="CS1012">
   </student>
-  <student student_name="Bob" roll_no="CS102">
+  <student student_name="Bob2" roll_no="CS1022">
   </student>
   </course>
-  <course course_name="Algorithms">
-  <student student_name="Charlie" roll_no="CS201">
+  <course course_name="Algorithms2">
+  <student student_name="Charlie2" roll_no="CS2012">
   </student>
   </course>
   </department>
-  <department department_name="Mechanical Engineering">
-  <course course_name="Thermodynamics">
-  <student student_name="David" roll_no="ME101">
+  <department department_name="Mechanical Engineering2">
+  <course course_name="Thermodynamics2">
+  <student student_name="David2" roll_no="ME1012">
   </student>
   </course>
   </department>

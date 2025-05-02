@@ -10,8 +10,8 @@ import java.util.regex.Pattern;
 
 public class DatabaseConnector {
     private static final String URL_PREFIX = "jdbc:mysql://localhost:3306/";
-    private static final String USER = "mohit";
-    private static final String PASSWORD = "Pramod@123";
+    private static final String USER = "root";
+    private static final String PASSWORD = "root";
     private static String databaseName;
     private static HikariDataSource dataSource;
 
